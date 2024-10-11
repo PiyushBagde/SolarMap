@@ -104,3 +104,19 @@ Here are a couple of examples of the model's output:
 ---
 
 Thank you for exploring **SolarMap**! We hope this project helps advance the understanding and use of solar energy. If you have any questions or feedback, feel free to reach out!
+
+
+## Contributors
+
+This project was developed collaboratively by the following team members:
+
+- <img src="https://github.com/PiyushBagde.png" alt="Piyush Bagde's Avatar" width="30" height="30"> [Piyush Bagde](https://github.com/PiyushBagde)
+- <img src="https://github.com/member2username.png" alt="Member 2's Avatar" width="30" height="30"> **Member 2's Name** - [Member 2's GitHub Profile](https://github.com/member2username)
+- <img src="https://github.com/member3username.png" alt="Member 3's Avatar" width="30" height="30"> **Member 3's Name** - [Member 3's GitHub Profile](https://github.com/member3username)
+- <img src="https://github.com/member4username.png" alt="Member 4's Avatar" width="30" height="30"> **Member 4's Name** - [Member 4's GitHub Profile](https://github.com/member4username)
+
+
+
+
+
+
