@@ -10,6 +10,15 @@ Welcome to **SolarMap**! This deep learning project is designed to detect small-
 
 ---
 
+## Cloning the Repository
+
+To clone this repository to your local machine, use the following command:
+
+```bash
+$ git clone https://github.com/PiyushBagde/SolarMap.git Solar-map
+```
+
+---
 ## 📊 Dataset
 
 The dataset used for training can be accessed on Roboflow:  
