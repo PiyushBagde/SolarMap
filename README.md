@@ -112,7 +112,7 @@ This project was developed collaboratively by the following team members:
 
 - <img src="https://github.com/PiyushBagde.png" alt="Piyush Bagde's Avatar" width="30" height="30"> [Piyush Bagde](https://github.com/PiyushBagde)
 - <img src="https://github.com/kaiwalyani.png" alt="kaiwalyani 2's Avatar" width="30" height="30"> [Kaiwalyani Gorde](https://github.com/kaiwalyani)
-- <img src="https://github.com/member3username.png" alt="Member 3's Avatar" width="30" height="30"> **Member 3's Name** - [Member 3's GitHub Profile](https://github.com/member3username)
+- <img src="https://github.com/AtharvKhonde.png" alt="Atharv Khonde's Avatar" width="30" height="30"> [Atharv Khonde](https://github.com/AtharvKhonde)
 - <img src="https://github.com/member4username.png" alt="Member 4's Avatar" width="30" height="30"> **Member 4's Name** - [Member 4's GitHub Profile](https://github.com/member4username)
 
 
